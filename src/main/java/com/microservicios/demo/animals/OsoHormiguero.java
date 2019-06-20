@@ -13,7 +13,7 @@ public class OsoHormiguero implements LandAnimal
 	@Override
 	public void eat( )
 	{
-		System.out.println( "mmm... Eating ants." );
+		System.out.println( "yumyum... Eating ants." );
 	}
 
 	@Override
