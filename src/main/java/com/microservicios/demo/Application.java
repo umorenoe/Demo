@@ -1,4 +1,4 @@
-package com.microservicios.demo.Demo;
+package com.microservicios.demo;
 
 public class Application {
 
